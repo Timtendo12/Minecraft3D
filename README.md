@@ -1,5 +1,7 @@
 # Minecraft 3D (v0.3.3)
 
+> 🎬 **Watch it in action:** [Claude Reverse Engineered Two 3DS Games to Add Real 3D](https://youtu.be/o5iRKvXZEcY) (YouTube)
+
 A Luma3DS 3GX plugin that adds real stereoscopic 3D to **Minecraft: New Nintendo 3DS
 Edition** (USA) on the New Nintendo 3DS / New 3DS XL / New 2DS XL. The game never
 shipped with working 3D on the update most people have; this plugin renders both eyes
